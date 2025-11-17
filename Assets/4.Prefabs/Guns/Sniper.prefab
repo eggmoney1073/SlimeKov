@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 5521158653357880472}
   - component: {fileID: 7745047605325365330}
   - component: {fileID: 9124422840288939746}
+  - component: {fileID: -8043967440795091985}
   m_Layer: 0
   m_Name: Sniper
   m_TagString: Untagged
@@ -109,3 +110,16 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -8310518740751045040, guid: db5ef47b9b5631844bab1e1c50f5a988, type: 3}
+--- !u!114 &-8043967440795091985
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8105093614528831879}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 842d3c6c994fe1740b304462c68211ab, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _gunData: {fileID: 11400000, guid: 64b1f573cc8412b49b3628047e34ec44, type: 2}
