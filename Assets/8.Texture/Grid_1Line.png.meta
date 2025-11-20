@@ -1,12 +1,5 @@
 fileFormatVersion: 2
-guid: 040be0e474e09894ca320b08d9462cc8
-AssetOrigin:
-  serializedVersion: 1
-  productId: 170650
-  packageName: Sleek essential UI pack
-  packageVersion: 1.0
-  assetPath: Assets/UI pack/Button/Green gradient.png
-  uploadId: 372817
+guid: 129b6c9f46ee327438bae0c240b3c068
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -46,17 +39,17 @@ TextureImporter:
     mipBias: 0
     wrapU: 1
     wrapV: 1
-    wrapW: 1
+    wrapW: 0
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 800
-  spriteBorder: {x: 60, y: 60, z: 60, w: 60}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -72,7 +65,7 @@ TextureImporter:
   ignorePngGamma: 0
   applyGammaDecoding: 0
   swizzle: 50462976
-  cookieLightType: 1
+  cookieLightType: 0
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
@@ -115,13 +108,35 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Grid_1Line_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 819
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f11acab8bc52f438609cab674caf41
+      internalID: 1867141942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
-    internalID: 1537655665
+    spriteID: fff81d84c222046429a2e011aecb04d1
+    internalID: 0
     vertices: []
     indices: 
     edges: []
@@ -129,7 +144,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Grid_1Line_0: 1867141942
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

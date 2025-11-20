@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b6d57e08a1d7d43a17803ee2360f45, type: 3}
+  m_Name: Item_Bullet_Rifle
+  m_EditorClassIdentifier: 
+  _icon: {fileID: 3286163911610860551, guid: 781e396960925e24ab82a0191c9e570e, type: 3}
+  _xSize: 1
+  _ySize: 1
+  _maxStack: 200
